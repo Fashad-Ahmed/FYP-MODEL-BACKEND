@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "nestjs-mailer": "^1.0.1"
+  }
+}

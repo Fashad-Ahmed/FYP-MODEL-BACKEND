@@ -129,6 +129,7 @@ netG.eval()
 def read_root():
     return {"message": "Welcome to the DCGAN Image Generator API!"}
 
+
 @app.get("/generate")
 async def generate_image():
     with torch.no_grad():
