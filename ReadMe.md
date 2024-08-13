@@ -41,7 +41,6 @@ Create a pull request.
 This project is licensed under the MIT License.
 
 
-Feel free to customize this README to suit your project's specific details and requirements.
 
 
 
